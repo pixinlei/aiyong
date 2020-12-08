@@ -20,9 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ffe361f-442b-41c9-b329-592a07e38b96" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/React/hello.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,24 +51,31 @@
     </option>
   </component>
   <component name="ProjectId" id="1lHaTtMfU39cgNeeKkBufL8s4JQ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager">
-    <configuration name="1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/1.js" working-dir="$PROJECT_DIR$">
+  <component name="RunManager" selected="JavaScript Debug.hello.html">
+    <configuration name="hello.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:4518/aiyong/React/hello.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="1.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/1.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.1.js" />
+        <item itemvalue="JavaScript Debug.hello.html" />
       </list>
     </recent_temporary>
   </component>
@@ -85,7 +93,9 @@
       <workItem from="1607327138578" duration="20000" />
       <workItem from="1607327237082" duration="271000" />
       <workItem from="1607327528477" duration="185000" />
-      <workItem from="1607327726198" duration="2619000" />
+      <workItem from="1607327726198" duration="2687000" />
+      <workItem from="1607397080428" duration="20199000" />
+      <workItem from="1607423745695" duration="501000" />
     </task>
     <servers />
   </component>
@@ -105,6 +115,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="402" y="64" width="1243" height="986" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607399422776">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="402" y="64" width="1243" height="986" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1607399422776" />
     <state x="704" y="360" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1607324529166">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -125,13 +139,17 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1874" height="285" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1607323429460" />
-    <state x="-5" y="0" key="SettingsEditor" timestamp="1607328363206">
+    <state x="53" y="0" key="SettingsEditor" timestamp="1607417817614">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="-5" y="0" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1607328363206" />
+    <state x="53" y="0" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1607417817614" />
     <state width="600" height="428" key="javadoc.popup" timestamp="1607324335180">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="600" height="428" key="javadoc.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1607324335180" />
+    <state x="369" y="0" width="1177" height="1976" key="search.everywhere.popup" timestamp="1607410370714">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="369" y="0" width="1177" height="1976" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1607410370714" />
   </component>
 </project>
