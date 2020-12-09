@@ -9,14 +9,58 @@
 	<script src="node_modules/react/umd/react.development.js"></script>
 	<script src="node_modules/react-dom/umd/react-dom.development.js"></script>
 	<script src="node_modules/babel-standalone/babel.min.js"></script>
+	<script src="node_modules/prop-types/prop-types.js"></script>
 </head>
 <body>
 		<div id="demoReact">
 
 		</div>
 		<script type="text/babel">
-			let myDom = <h1>hello world</h1>
-			ReactDOM.render(myDom, document.getElementById("demoReact"))
+
+            let Child = (props) => {
+                console.log(999)
+                console.log(props.isshow);
+                let temp = props.isshow;
+                return (
+                    <div style={{display: temp ? 'block' : 'none'}}>
+	                    我是子组件
+	                    子组件的props {props.arr.map((v, i) => {
+	                        return <p key={i}>{v}</p>
+                    })}
+	                    <div>这里是isshow ----- {props.isshow} {122222222222}</div>
+	                    {console.log(233333333333, props.isshow)}
+                    </div>
+                )
+            }
+            let showOrFalse = true;
+            let Parent = () => {
+                console.log('?');
+
+                let myarr = ['吃饭', '睡觉', '打豆豆']
+
+				let [show, setShow] = useState(false);
+
+				// 15.6 16.8
+	            // calss  this.state = {}  this.setState ({}) render
+                // hanshu let [a, setA] = useState(0)
+
+
+
+                return (
+                    <div>
+	                    <h1 onClick={() => {showOrFalse = !showOrFalse; myrender();
+                            console.log(111,showOrFalse)}}>
+		                    我是父组件,由我来控制显示与隐藏
+	                    </h1>
+	                    <Child arr={myarr} isshow={showOrFalse} />
+                    </div>
+                )
+            }
+            let com = <Parent/>
+            function myrender() {
+                ReactDOM.render(com, document.getElementById("demoReact"))
+            }
+            myrender()
 		</script>
 </body>
 </html>

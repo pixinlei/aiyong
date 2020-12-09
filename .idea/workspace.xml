@@ -20,10 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ffe361f-442b-41c9-b329-592a07e38b96" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/React/hello.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flex.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-cli-demo/src/demo/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/React/hello.html" beforeDir="false" afterPath="$PROJECT_DIR$/React/hello.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/React/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/React/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toDoList/toDoList/src/components/toDoList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/toDoList/toDoList/src/components/toDoList.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +70,9 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="JavaScript Debug.hello.html">
+    <configuration name="flex.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/aiyong/flex.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="hello.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:4518/aiyong/React/hello.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -76,6 +82,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="JavaScript Debug.hello.html" />
+        <item itemvalue="JavaScript Debug.flex.html" />
       </list>
     </recent_temporary>
   </component>
@@ -95,7 +102,8 @@
       <workItem from="1607327528477" duration="185000" />
       <workItem from="1607327726198" duration="2687000" />
       <workItem from="1607397080428" duration="20199000" />
-      <workItem from="1607423745695" duration="501000" />
+      <workItem from="1607423745695" duration="1956000" />
+      <workItem from="1607478181559" duration="19089000" />
     </task>
     <servers />
   </component>
@@ -147,9 +155,9 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="600" height="428" key="javadoc.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1607324335180" />
-    <state x="369" y="0" width="1177" height="1976" key="search.everywhere.popup" timestamp="1607410370714">
+    <state x="369" y="0" width="1177" height="1976" key="search.everywhere.popup" timestamp="1607487429389">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="369" y="0" width="1177" height="1976" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1607410370714" />
+    <state x="369" y="0" width="1177" height="1976" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1607487429389" />
   </component>
 </project>
