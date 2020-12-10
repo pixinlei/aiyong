@@ -20,13 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ffe361f-442b-41c9-b329-592a07e38b96" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/flex.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-cli-demo/src/demo/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-cli-demo/src/demo/lifeCycle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-cli-demo/src/demo/myFourThis.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-cli-demo/src/demo/text.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/React/hello.html" beforeDir="false" afterPath="$PROJECT_DIR$/React/hello.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/React/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/React/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/React/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/React/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toDoList/toDoList/src/components/toDoList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/toDoList/toDoList/src/components/toDoList.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-cli-demo/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/react-cli-demo/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-cli-demo/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-cli-demo/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-cli-demo/src/demo/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-cli-demo/src/demo/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +65,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
@@ -103,7 +107,9 @@
       <workItem from="1607327726198" duration="2687000" />
       <workItem from="1607397080428" duration="20199000" />
       <workItem from="1607423745695" duration="1956000" />
-      <workItem from="1607478181559" duration="19089000" />
+      <workItem from="1607478181559" duration="22987000" />
+      <workItem from="1607508344824" duration="1838000" />
+      <workItem from="1607564580286" duration="17758000" />
     </task>
     <servers />
   </component>
@@ -155,9 +161,9 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="600" height="428" key="javadoc.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1607324335180" />
-    <state x="369" y="0" width="1177" height="1976" key="search.everywhere.popup" timestamp="1607487429389">
+    <state x="369" y="0" width="1177" height="1976" key="search.everywhere.popup" timestamp="1607585641496">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="369" y="0" width="1177" height="1976" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1607487429389" />
+    <state x="369" y="0" width="1177" height="1976" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1607585641496" />
   </component>
 </project>

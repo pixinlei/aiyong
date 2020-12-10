@@ -1,12 +1,21 @@
 import logo from './logo.svg';
 import './App.css';
-import Demo from  './demo/index';
+import MyDemo from  './demo/index';
+import Text from "./demo/text";
+import LifeCycle from './demo/lifeCycle'
+import MyFourThis from "./demo/myFourThis";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-          <Demo />
+          <MyDemo />
+          ----------------------------------------
+          <Text />
+          -------------------------------------
+          <LifeCycle/>
+          ------------------------------------
+          <MyFourThis/>
       </header>
     </div>
   );
