@@ -1,0 +1,20 @@
+.page {
+    width: 45vw;
+    height: 20vw;
+    /*border-radius: 50%;*/
+    border-bottom-left-radius: 45%;
+    border-bottom-right-radius: 45%;
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding-left: 9vw;
+    box-sizing: border-box;
+    /*box-sizing: border-box;*/
+    margin-left: 2.5vw;
+    margin-right: 2.5vw;
+    border-top-left-radius: 45%;
+    border-top-right-radius: 45%;
+    font-size: 30px;
+    color: white;
+}

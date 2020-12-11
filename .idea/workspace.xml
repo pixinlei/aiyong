@@ -20,13 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ffe361f-442b-41c9-b329-592a07e38b96" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-todolist/src/todolist.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-todolist/src/todolist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator/src/myCalculator/calculatorButton/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator/src/myCalculator/calculatorButton/index.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator/src/myCalculator/calculatorButton/text.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator/src/myCalculator/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator/src/myCalculator/index.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator/src/myCalculator/zeroButton/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator/src/myCalculator/zeroButton/index.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-todolist/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/react-todolist/.eslintcache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-todolist/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-todolist/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-todolist/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-todolist/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/src/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,6 +116,8 @@
       <workItem from="1607478181559" duration="22987000" />
       <workItem from="1607508344824" duration="1838000" />
       <workItem from="1607564580286" duration="26498000" />
+      <workItem from="1607652221228" duration="4716000" />
+      <workItem from="1607656989370" duration="23855000" />
     </task>
     <servers />
   </component>
@@ -139,6 +145,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="704" y="360" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1607324529166" />
+    <state x="493" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607683929699">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="493" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1607683929699" />
     <state width="1874" height="285" key="GridCell.Tab.0.bottom" timestamp="1607323429460">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -159,13 +169,39 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="53" y="0" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1607417817614" />
+    <state width="871" height="696" key="SwitcherDM" timestamp="1607684474630">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="871" height="696" key="SwitcherDM/0.0.1920.1050@0.0.1920.1050" timestamp="1607684474630" />
     <state width="600" height="428" key="javadoc.popup" timestamp="1607324335180">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="600" height="428" key="javadoc.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1607324335180" />
-    <state x="369" y="0" width="1177" height="1976" key="search.everywhere.popup" timestamp="1607585641496">
+    <state x="364" y="231" key="run.anything.popup" timestamp="1607676241619">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="369" y="0" width="1177" height="1976" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1607585641496" />
+    <state x="364" y="231" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1607676241619" />
+    <state x="369" y="0" width="1177" height="1976" key="search.everywhere.popup" timestamp="1607670534728">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="369" y="0" width="1177" height="1976" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1607670534728" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/calculator/src/myCalculator/index.js</url>
+          <line>10</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/calculator/src/myCalculator/index.js</url>
+          <line>87</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
