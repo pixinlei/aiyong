@@ -20,17 +20,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ffe361f-442b-41c9-b329-592a07e38b96" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/calculator/src/myCalculator/calculatorButton/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator/src/myCalculator/calculatorButton/index.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator/src/myCalculator/calculatorButton/text.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator/src/myCalculator/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator/src/myCalculator/index.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator/src/myCalculator/zeroButton/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator/src/myCalculator/zeroButton/index.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculator/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/calculator/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculator/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/src/App.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/src/myCalculator/calculatorButton/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/src/myCalculator/calculatorButton/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/src/myCalculator/calculatorButton/index.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/src/myCalculator/calculatorButton/index.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/src/myCalculator/calculatorButton/text.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/src/myCalculator/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/src/myCalculator/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/src/myCalculator/index.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/src/myCalculator/index.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/src/myCalculator/zeroButton/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/src/myCalculator/zeroButton/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/src/myCalculator/zeroButton/index.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/src/myCalculator/zeroButton/index.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +60,12 @@
       </set>
     </option>
   </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="ProjectId" id="1lHaTtMfU39cgNeeKkBufL8s4JQ" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -72,7 +81,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="JavaScript Debug.1.html">
@@ -118,6 +127,11 @@
       <workItem from="1607564580286" duration="26498000" />
       <workItem from="1607652221228" duration="4716000" />
       <workItem from="1607656989370" duration="23855000" />
+      <workItem from="1607688392087" duration="111000" />
+      <workItem from="1607910933987" duration="10451000" />
+      <workItem from="1607926971338" duration="7304000" />
+      <workItem from="1607937763416" duration="2058000" />
+      <workItem from="1607940750777" duration="2254000" />
     </task>
     <servers />
   </component>
@@ -145,6 +159,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="704" y="360" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1607324529166" />
+    <state x="624" y="276" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper" timestamp="1607913872760">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="624" y="276" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper/0.0.1920.1050@0.0.1920.1050" timestamp="1607913872760" />
     <state x="493" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607683929699">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -165,10 +183,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1874" height="285" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1607323429460" />
-    <state x="53" y="0" key="SettingsEditor" timestamp="1607417817614">
+    <state x="53" y="0" key="SettingsEditor" timestamp="1607937669674">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="53" y="0" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1607417817614" />
+    <state x="53" y="0" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1607937669674" />
     <state width="871" height="696" key="SwitcherDM" timestamp="1607684474630">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -191,15 +209,13 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/calculator/src/myCalculator/index.js</url>
-          <line>10</line>
-          <properties lambdaOrdinal="-1" />
+          <line>25</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/calculator/src/myCalculator/index.js</url>
-          <line>87</line>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="4" />
+          <line>24</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

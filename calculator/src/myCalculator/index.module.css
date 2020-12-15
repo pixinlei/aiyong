@@ -22,27 +22,11 @@ table, caption, tbody, tfoot, thead, tr, th, td {
 }
 .title {
     font-size: 30px;
-    /*width: 100vw;*/
-    /*height: 30vh;*/
-    /*display: flex;*/
-    /*justify-content: flex-end;*/
-    /*flex-wrap: wrap;*/
-    /*word-break:break-all;*/
-    /*background-color: black;*/
-    /*align-items: flex-end;*/
-    /*flex-direction: row-reverse;*/
-
-
     width: 100vw;
     height: 30vh;
     display: flex;
     justify-content: flex-end;
     align-items: flex-end;
-    /*overflow:hidden;*/
-    /*word-wrap:break-word;*/
-    /*word-break:break-all;*/
-
-
 }
 .content {
     margin-top: 10vh;
